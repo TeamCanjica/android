@@ -14,6 +14,10 @@
   <remote  name="omnirom"
            review="gerrit.omnirom.org"
            fetch="https://github.com/omnirom" />
+                      
+  <remote  name="CyanogenMod"
+           fetch="https://github.com/CyanogenMod"
+           review="review.cyanogenmod.org" />
 
   <default revision="refs/tags/android-4.4.1_r1"
            remote="aosp"
