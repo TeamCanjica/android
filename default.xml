@@ -426,13 +426,11 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
-  <project path="kernel/samsung/u8500" name="TeamCanjica/android_kernel_samsung_u8500" revision="cm-10.2" />
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-10.2" />
   <project path="device/samsung/u8500-common" name="TeamCanjica/android_device_samsung_u8500-common" revision="cm-10.2" />
   <project path="device/samsung/janice" name="TeamCanjica/android_device_samsung_janice" revision="cm-10.2" />
-  <!-- <project path="device/samsung/janicep" name="TeamCanjica/android_device_samsung_janicep" revision="cm-10.2" /> -->
   <project path="device/samsung/codinap" name="TeamCanjica/android_device_samsung_codinap" revision="cm-10.2" />
   <project path="device/samsung/codina" name="TeamCanjica/android_device_samsung_codina" revision="cm-10.2" />
-  <project path="kernel/samsung/codina" name="Novathor/Samsung_STE_Kernel" revision="3.0.101" />
+  <project path="kernel/samsung/u8500" name="Novathor/Samsung_STE_Kernel" revision="3.0.101" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-10.2" />
   </manifest>
