@@ -137,12 +137,6 @@
   <project path="ubuntu/platform-api" name="ubuntu/platform-api" revision="refs/heads/master" />
   <project path="ubuntu/upstart-property-watcher" name="ubuntu/upstart-property-watcher" revision="refs/heads/master" />
 
-  <project path="device/lge/mako-kernel" name="ubuntu/kernels/ubuntu_prebuilt_kernel_mako.git" revision="master" groups="device,mako" />
-  <project path="device/samsung/manta-kernel" name="ubuntu/kernels/ubuntu_prebuilt_kernel_manta.git" revision="master" groups="device,manta" />
-  <project path="device/samsung/maguro-kernel" name="ubuntu/kernels/ubuntu_prebuilt_kernel_maguro.git" revision="master" groups="device,maguro" />
-  <project path="device/asus/grouper-kernel" name="ubuntu/kernels/ubuntu_prebuilt_kernel_grouper.git" revision="master" groups="device,grouper" />
-  <project path="device/generic/goldfish-kernel" name="ubuntu/kernels/ubuntu_prebuilt_kernel_goldfish.git" revision="master" groups="device,goldfish" />
-
   <project path="kernel/samsung/u8500" name="TeamCanjica/android_kernel_samsung_u8500" revision="phablet-trusty" />
   <project path="kernel/samsung/codina" name="TeamCanjica/android_kernel_samsung_codina" revision="phablet-trusty" />
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-10.1" />
