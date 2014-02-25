@@ -386,7 +386,7 @@
   <project path="packages/screensavers/Basic" name="ChameleonOS/android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" name="ChameleonOS/android_packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" name="ChameleonOS/android_packages_screensavers_WebView" />
-  <project path="packages/services/Telephony" name="ChameleonOS/android_packages_services_Telephony" />
+  <project path="packages/services/Telephony" name="TeamCanjica/android_packages_services_Telephony" remote="github" revision="cm-11.0" />
   <project path="packages/wallpapers/Basic" name="ChameleonOS/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" name="ChameleonOS/android_packages_wallpapers_Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="ChameleonOS/android_packages_wallpapers_HoloSpiral" />
@@ -467,4 +467,12 @@
   <!-- Use Koush's open Superuser -->
   <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
+
+<project path="kernel/samsung/u8500" name="Novathor/Samsung_STE_Kernel" remote="github" revision="3.0.101" />
+  <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" remote="github" revision="cm-11.0" />
+  <project path="device/samsung/u8500-common" name="TeamCanjica/android_device_samsung_u8500-common" remote="github" revision="cm-11.0" />
+  <project path="device/samsung/janice" name="TeamCanjica/android_device_samsung_janice" remote="github" revision="cm-11.0" />
+  <project path="device/samsung/codina" name="TeamCanjica/android_device_samsung_codina" remote="github" revision="cm-11.0" />
+  <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" remote="github" revision="cm-11.0" />
+
 </manifest>
