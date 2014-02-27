@@ -103,7 +103,7 @@
   <project path="external/doclava" name="ChameleonOS/android_external_doclava" />
   <project path="external/dropbear" name="ChameleonOS/android_external_dropbear" />
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.1_r1" />
-  <project path="external/e2fsprogs" name="ChameleonOS/android_external_e2fsprogs" groups="pdk" />
+  <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="external/easymock" name="ChameleonOS/android_external_easymock" />
   <project path="external/eclipse-basebuilder" name="ChameleonOS/android_external_eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="ChameleonOS/android_external_eclipse-windowbuilder" />
@@ -449,7 +449,7 @@
   <project path="system/media" name="ChameleonOS/android_system_media" groups="pdk" />
   <project path="system/netd" name="ChameleonOS/android_system_netd" groups="pdk" />
   <project path="system/security" name="ChameleonOS/android_system_security" groups="pdk" />
-  <project path="system/vold" name="ChameleonOS/android_system_vold" groups="pdk" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.1_r1" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.1_r1" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.1_r1" />
