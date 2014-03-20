@@ -433,5 +433,4 @@
   <project path="device/samsung/codina" name="TeamCanjica/android_device_samsung_codina" revision="cm-10.2" />
   <project path="kernel/samsung/u8500" name="TeamCanjica/Samsung_STE_Kernel" revision="3.0.31" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-10.2" />
-  <project path="packages/apps/OTA-center" name="Rox-/android_packages_apps_OTA-center" revision="master" />
   </manifest>
