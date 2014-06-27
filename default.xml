@@ -468,10 +468,7 @@
   <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
   
-  <project path="device/samsung/codina" name="TeamCanjica/android_device_samsung_codina" revision="cm-11.0" />
-  <project path="device/samsung/codinap" name="TeamCanjica/android_device_samsung_codinap" revision="cm-11.0" />
   <project path="device/samsung/janice" name="TeamCanjica/android_device_samsung_janice" revision="cm-11.0" />
-  <project path="device/samsung/janicep" name="TeamCanjica/android_device_samsung_janicep" revision="cm-11.0" />
   <project path="device/samsung/u8500-common" name="TeamCanjica/android_device_samsung_u8500-common" revision="cm-11.0" />
   <project path="hardware/u8500" name="TeamCanjica/android_hardware_u8500" revision="cm-11.0" />
   <project path="kernel/samsung/u8500" name="TeamCanjica/Samsung_STE_Kernel" revision="3.0.101" />
